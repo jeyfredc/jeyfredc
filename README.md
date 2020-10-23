@@ -6,7 +6,7 @@ Actualmente estudio desarrollo de software en Platzi.
 
 - Me gusta documentar los cursos que realizo y aportar a la comunidad de desarrollo :memo:
 
-:pushpin: Si quieres conocer mas de mi puedes entrar a mi perfil.
+- Si quieres conocer mas de mi puedes entrar a mi perfil. :pushpin:
 
 :octocat: https://jeyfredc.github.io/Portafolio/Css-Portafolio/
 
