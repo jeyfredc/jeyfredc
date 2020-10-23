@@ -1,9 +1,6 @@
-## Hola :clap:
-
-## Soy 
-### Jeyfred Calderon 
-## Ingeniero industrial y 
-### Desarrollador
+# Hola :wave:
+# Soy Jeyfred Calderon Ingeniero industrial y 
+#              Desarrollador
 
 Actualmente soy estudiante de Platzi, quiero ser un desarrollador, mi objetivo es ser un Developer FullStack.
 
