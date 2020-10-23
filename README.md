@@ -1,10 +1,13 @@
-# Hola :wave:
-# Soy Jeyfred Calderon Ingeniero industrial y 
-#              Desarrollador
+# Hola :wave: Soy Jeyfred Calderon Ingeniero industrial y 
+# Desarrollador
 
-Actualmente soy estudiante de Platzi, quiero ser un desarrollador, mi objetivo es ser un Developer FullStack.
+Actualmente estudio desarrollo de software en Platzi.
 
-Me gusta documentar los cursos que realizo y aportar a la comunidad de desarrollo, si quieres conocer mas de mi puedes entrar a mi perfil.
+- Tengo como objetivo convertirme en desarrollador Backend en el corto plazo. :computer:
+
+- Me gusta documentar los cursos que realizo y aportar a la comunidad de desarrollo :memo:
+
+:pushpin: Si quieres conocer mas de mi puedes entrar a mi perfil.
 
 :octocat: https://jeyfredc.github.io/Portafolio/Css-Portafolio/
 
