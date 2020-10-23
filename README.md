@@ -1,5 +1,4 @@
 # Hola :wave: 
-## Soy Jeyfred Calderon 
 
 Actualmente estudio desarrollo de software en Platzi.
 
