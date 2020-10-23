@@ -1,6 +1,7 @@
 ## Hola :clap:
 
-## soy ### Jeyfred Calderon 
+## Soy 
+### Jeyfred Calderon 
 ## Ingeniero industrial y 
 ### Desarrollador
 
