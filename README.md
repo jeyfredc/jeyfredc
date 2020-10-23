@@ -1,4 +1,4 @@
-# Hola :wave: Soy Jeyfred Calderon Ingeniero industrial y desarrollador
+# Hola :wave: Soy Jeyfred Calderon Ingeniero Industrial y Desarrollador
 
 Actualmente estudio desarrollo de software en Platzi.
 
