@@ -8,6 +8,6 @@ Actualmente estudio desarrollo de software en Platzi.
 
 - Si quieres conocer mas de mi puedes entrar a mi perfil. :pushpin:
 
-:octocat: https://jeyfredc.github.io/Portafolio/Css-Portafolio/
+:octocat: https://jeyfredc.github.io/Portafolio/
 
 
