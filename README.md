@@ -1,12 +1,12 @@
 # Hola :wave: 
 
-Actualmente estudio desarrollo de software en Platzi.
+I am Colombian and I am currently studying English in Sydney, Australia. I have 2 and a half years of experience in frontend development.
 
-- Tengo como objetivo convertirme en desarrollador Backend en el corto plazo. :computer:
+- I aim to learn about javascript frameworks and libraries. :computer:
 
-- Me gusta documentar los cursos que realizo y aportar a la comunidad de desarrollo :memo:
+- I like to document the courses I run and contribute to the development community. :memo:
 
-- Si quieres conocer mas de mi puedes entrar a mi perfil. :pushpin:
+- If you want to know more about me you can visit my profile. :pushpin:
 
 :octocat: https://jeyfredc.github.io/Portafolio/
 
