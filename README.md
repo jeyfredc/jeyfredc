@@ -8,6 +8,6 @@ I am Colombian and I am currently studying English in Sydney, Australia. I have 
 
 - If you want to know more about me you can visit my profile. :pushpin:
 
-:octocat: https://jeyfredc.github.io/Portafolio/
+:octocat: https://jeyfredc.github.io/Portfolio/
 
 
