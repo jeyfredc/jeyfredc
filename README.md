@@ -1,12 +1,12 @@
 # Hola :wave: 
 
-I am Colombian and I am currently studying English in Sydney, Australia. I have 2 and a half years of experience in frontend development.
+Soy un desarrollador Front-end con más de 2 años de experiencia en la creación de nuevas páginas web y la mejora de su diseño y funcionalidad, utilizando herramientas como React y Redux. Además, tengo experiencia en el manejo de grandes bases de datos, como PostgreSQL, y también en el desarrollo Back-end con Django.
 
-- I aim to learn about javascript frameworks and libraries. :computer:
+Me caracterizo por ser una persona disciplinada, entusiasta y constante en la consecución de mis objetivos. Si deseas conocer más acerca de mi trabajo, no dudes en contactarme a través de los siguientes medios:
 
-- I like to document the courses I run and contribute to the development community. :memo:
+:phone: +61 0416 031 324.
 
-- If you want to know more about me you can visit my profile. :pushpin:
+:email: jeyfredc@gmail.com
 
 :octocat: https://jeyfredc.github.io/Portfolio/
 
