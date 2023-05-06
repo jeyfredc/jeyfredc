@@ -4,7 +4,7 @@ Soy un desarrollador Front-end con más de 2 años de experiencia en la creació
 
 Me caracterizo por ser una persona disciplinada, entusiasta y constante en la consecución de mis objetivos. Si deseas conocer más acerca de mi trabajo, no dudes en contactarme a través de los siguientes medios:
 
-:phone: +61 0416 031 324.
+:phone: +57 315 718 5767.
 
 :email: jeyfredc@gmail.com
 
