@@ -8,6 +8,6 @@ Me caracterizo por ser una persona disciplinada, entusiasta y constante en la co
 
 :email: jeyfredc@gmail.com
 
-:octocat: https://jeyfredc.github.io/Portfolio/
+:octocat: https://jeyfredc.netlify.app/
 
 
