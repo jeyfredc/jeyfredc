@@ -11,3 +11,4 @@ Me caracterizo por ser una persona disciplinada, entusiasta y constante en la co
 :octocat: https://jeyfredc.netlify.app/
 
 
+https://shields.io/badge/-javascript-4377cb?logo=javascript  
